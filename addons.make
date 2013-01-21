@@ -1,0 +1,11 @@
+ofxOsc
+ofxXmlSettings
+ofxDuration
+ofxFX
+ofxMSACore
+ofxMSAFluid
+ofxMSAInteractiveObject
+ofxMSATimer
+ofxRange
+ofxSyphon
+ofxUI
